@@ -1,0 +1,14 @@
+C:\Users\pierr\RiderProjects\Skola\Intro till OOP\Intro till OOP\bin\Debug\net10.0\Intro till OOP.exe
+C:\Users\pierr\RiderProjects\Skola\Intro till OOP\Intro till OOP\bin\Debug\net10.0\Intro till OOP.deps.json
+C:\Users\pierr\RiderProjects\Skola\Intro till OOP\Intro till OOP\bin\Debug\net10.0\Intro till OOP.runtimeconfig.json
+C:\Users\pierr\RiderProjects\Skola\Intro till OOP\Intro till OOP\bin\Debug\net10.0\Intro till OOP.dll
+C:\Users\pierr\RiderProjects\Skola\Intro till OOP\Intro till OOP\bin\Debug\net10.0\Intro till OOP.pdb
+C:\Users\pierr\RiderProjects\Skola\Intro till OOP\Intro till OOP\obj\Debug\net10.0\Intro till OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pierr\RiderProjects\Skola\Intro till OOP\Intro till OOP\obj\Debug\net10.0\Intro till OOP.AssemblyInfoInputs.cache
+C:\Users\pierr\RiderProjects\Skola\Intro till OOP\Intro till OOP\obj\Debug\net10.0\Intro till OOP.AssemblyInfo.cs
+C:\Users\pierr\RiderProjects\Skola\Intro till OOP\Intro till OOP\obj\Debug\net10.0\Intro till OOP.csproj.CoreCompileInputs.cache
+C:\Users\pierr\RiderProjects\Skola\Intro till OOP\Intro till OOP\obj\Debug\net10.0\Intro till OOP.dll
+C:\Users\pierr\RiderProjects\Skola\Intro till OOP\Intro till OOP\obj\Debug\net10.0\refint\Intro till OOP.dll
+C:\Users\pierr\RiderProjects\Skola\Intro till OOP\Intro till OOP\obj\Debug\net10.0\Intro till OOP.pdb
+C:\Users\pierr\RiderProjects\Skola\Intro till OOP\Intro till OOP\obj\Debug\net10.0\Intro till OOP.genruntimeconfig.cache
+C:\Users\pierr\RiderProjects\Skola\Intro till OOP\Intro till OOP\obj\Debug\net10.0\ref\Intro till OOP.dll
